@@ -1,0 +1,29 @@
+.mainBlock {
+    height: 100vh;
+    background-color: #dbf5f5;
+}
+
+.welcomingRemarks {
+    width: 300px;
+    font-family: Poppins sans-serif;
+    background-color: #ded9cf;
+}
+
+.h3 {
+    color: #daa520;
+    text-shadow:
+    0 0 0.02em #d9cdcd,
+    0 0 0.04em #d9cdcd,
+    0 0 0.05em #d9cdcd,
+    0 0 0.9em #5b5858,
+    0 0 0.11em #5b5858,
+    0 0 0.13em #5b5858,
+    0 0 0.15em #5b5858,
+    0 0 0.17em #5b5858;
+}
+
+.photo {
+    width: 300px;
+    height: 200px;
+    background-color: #f8c9c9;
+}
